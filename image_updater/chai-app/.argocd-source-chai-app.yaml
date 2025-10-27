@@ -1,4 +1,3 @@
 kustomize:
   images:
-  - santanu9762/chai-devops:20
-
+  - santanu9762/chai-devops:21.0.1
